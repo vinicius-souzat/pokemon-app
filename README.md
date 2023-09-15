@@ -1,4 +1,4 @@
-# Pokémon Search App
+# Pokemon Search App
 
 ![Preview](image.png)
 
