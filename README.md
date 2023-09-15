@@ -50,7 +50,7 @@ A aplicação será aberta no seu navegador padrão. Você pode acessá-la em ht
 
 ## Hospedagem
 
-A aplicação está hospedada em [https://pokemon-app-iota-three.vercel.app/](https://pokemon-app-iota-three.vercel.app/).
+A aplicação está hospedada em [Pokemon](https://pokemon-app-iota-three.vercel.app/).
 
 ## Licença
 
