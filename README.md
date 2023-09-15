@@ -34,7 +34,7 @@ Siga estas etapas para executar a aplicação em seu ambiente de desenvolvimento
 
 Clone este repositório para o seu computador:
 
-```bash
+``bash
 git clone https://github.com/vinicius-souzat/pokemon-app.git
 
 ### Passo 2: Navegue até a pasta do projeto
