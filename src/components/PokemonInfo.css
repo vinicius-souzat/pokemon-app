@@ -1,0 +1,23 @@
+/* PokemonInfo.css */
+.PokemonInfo {
+    border: 1px solid #ccc;
+    padding: 16px;
+    background-color: #f7f7f7;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  img {
+    max-width: 200px;
+    height: auto;
+    margin: 16px 0;
+  }
+  
+  p {
+    color: #555;
+    margin: 4px 0;
+  }
+  
