@@ -34,17 +34,17 @@ Siga estas etapas para executar a aplicação em seu ambiente de desenvolvimento
 
 Clone este repositório para o seu computador:
 
-``bash
+`bash`
 git clone https://github.com/vinicius-souzat/pokemon-app.git
 
 ### Passo 2: Navegue até a pasta do projeto
-``cd pokemon-app
+`cd` pokemon-app
 
 ### Passo 3: Instale as dependências
-``npm install
+`npm` install
 
 ### Passo 4: Inicie a Aplicação
-``npm start
+`npm` start
 
 A aplicação será aberta no seu navegador padrão. Você pode acessá-la em http://localhost:3000.
 
