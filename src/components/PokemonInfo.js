@@ -9,10 +9,10 @@ function PokemonInfo({ pokemon }) {
   return (
     <div className="PokemonInfo"> {/* Adicione a classe para aplicar os estilos */}
       <h2>{pokemon.name}</h2>
-      <img src={pokemon.sprites.front_default} alt={pokemon.name} />
+      <img src={pokemon.sprites.versions["generation-v"]["black-white"].animated.front_default} alt={pokemon.name} />
       <p>Tipo: {pokemon.types[0].type.name}</p>
-      <p>Peso: {pokemon.weight} kg</p>
-      <p>Altura: {pokemon.height} m</p>
+      <p>Peso: {pokemon.weight /10} kg</p>
+      <p>Altura: {pokemon.height /10} m</p>
     </div>
   );
 }
