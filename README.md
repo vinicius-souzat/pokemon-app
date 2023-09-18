@@ -1,4 +1,4 @@
-# Pokémon Search App
+# Pokemon Search App
 
 ![Preview](image.png)
 
@@ -50,7 +50,7 @@ A aplicação será aberta no seu navegador padrão. Você pode acessá-la em ht
 
 ## Hospedagem
 
-A aplicação está hospedada em [link do aplicativo](https://pokemon-app-iota-three.vercel.app/).
+A aplicação está hospedada em [Pokemon](https://pokemon-app-iota-three.vercel.app/).
 
 ## Licença
 
